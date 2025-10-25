@@ -34,7 +34,7 @@ Open `index.html` in any modern browser. For best results (and to avoid local fi
   npx http-server -p 8000
   ```
 
-![Screenshot](https://i.ibb.co/bjBw9k9N/ATCMG.png)
+![Screenshot](https://ibb.co/Q7NSw4wY)
 
 ---
 
